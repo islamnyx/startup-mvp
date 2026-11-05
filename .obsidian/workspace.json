@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "9bd3b10e9a1cdcad",
+    "type": "split",
+    "children": [
+      {
+        "id": "faea60e761fbaee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe617fe7173e7db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e997b98b95a973f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "326843c9314ddb7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992bdfa530ac6c6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14e58b201952f02b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0fa345b098dacfd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a91ad2d7e1bb5066",
+    "type": "split",
+    "children": [
+      {
+        "id": "2245324364ebb705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb96752097b1a18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4ad620111f60ea8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e5ee32437841bc1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a95541b04d4b479c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4e2fbd1e6237341e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fbe617fe7173e7db",
+  "lastOpenFiles": [
+    "technical/Security.md",
+    "technical/Slippage.md",
+    "technical/Todo.md",
+    "technical/Phase 0 - Foundations.md",
+    "technical/MVP Criteria.md",
+    "technical/Index.md",
+    "technical/Ground Rules.md",
+    "technical/Data Model.md",
+    "technical/Week 1 Checklist.md",
+    "technical/Work Split.md",
+    "technical/Phase 8 - Red-Team.md",
+    "technical/Phase 7 - Console.md",
+    "technical/Phase 6 - Cross-Step Policies.md",
+    "technical/Phase 5 - Audit.md",
+    "technical/Phase 4 - Approvals.md",
+    "technical/Phase 3 - Connectors.md",
+    "technical/Phase 2 - Policy Engine.md",
+    "technical/Phase 1 - Gateway Skeleton.md",
+    "technical/Phases Overview.md",
+    "technical/Request Flow.md",
+    "technical/Stack.md",
+    "technical",
+    "Untitled.canvas",
+    "planning/Business Model.md",
+    "planning/Competition.md",
+    "planning/Value Proposition.md",
+    "planning/Risks.md",
+    "planning/Phases.md",
+    "planning",
+    "Planing",
+    "notes"
+  ]
+}
